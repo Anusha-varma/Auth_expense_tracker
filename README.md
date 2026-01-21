@@ -5,6 +5,20 @@ This is a web-based Expense Tracking System built using Angular (Standalone Comp
 The application allows authenticated users to manage their personal income and expenses and view a dashboard with their financial summary.
 
 
+## Screenshots
+
+### Login Page
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/214ecc71-979d-4dee-a56a-8e1395bf14b0" />
+
+
+### Expense Dashboard
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/899d2ca1-bdac-4335-a8a2-9e0055558d5f" />
+
+### Transaction Form page
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7eaf7476-ed98-46ff-acb2-80b9a2c5a22b" />
+
 ## Features
 
 * User authentication (login and registration)
@@ -58,24 +72,10 @@ The application allows authenticated users to manage their personal income and e
    ```
 
 
-## Screenshots
-
-### Login Page
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/214ecc71-979d-4dee-a56a-8e1395bf14b0" />
-
-
-### Expense Dashboard
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/899d2ca1-bdac-4335-a8a2-9e0055558d5f" />
-
-### Transaction Form page
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7eaf7476-ed98-46ff-acb2-80b9a2c5a22b" />
-
-
 ## Notes
 
 * Each user can view and manage only their own income and expenses
 * Auth Guards are used to restrict access to protected routes
 * Ensure JSON Server is running before using the application
  Optimize this README for resume or GitHub profile
+
